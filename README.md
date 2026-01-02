@@ -1,1 +1,1 @@
-# EEG-EMG-RNN-Attention_NeuroPhysioloigcal_Resilience_Monitoring
+Subject-wise K-fold GRU pipeline for binary resilience prediction from EEG (9ch), EMG (1ch), and early fusion. Includes optional attention pooling, validation-based threshold selection, disk-cached windowing, and exports per-fold metrics, mean/std summaries, and subject-level prediction CSVs.
