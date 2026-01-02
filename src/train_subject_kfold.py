@@ -1,7 +1,6 @@
 # ============================================================
 # FULL PIPELINE (End-to-End) using df_rec (your proven correct table)
 # Subject-wise K-Fold (EEG / EMG / EEG+EMG) with/without Attention
-# - Saves per-fold + mean/std CSV + subject predictions CSVs
 # ============================================================
 
 import os, json, random
