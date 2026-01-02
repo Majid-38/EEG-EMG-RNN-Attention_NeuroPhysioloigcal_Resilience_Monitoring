@@ -1,1 +1,2 @@
 Subject-wise K-fold GRU pipeline for binary resilience prediction from EEG (9ch), EMG (1ch), and early fusion. Includes optional attention pooling, validation-based threshold selection, disk-cached windowing, and exports per-fold metrics, mean/std summaries, and subject-level prediction CSVs.
+Resilience labels were automatically derived from the dataset using a separate labeling pipeline. The corresponding code is not included in this repository but can be shared upon request.
