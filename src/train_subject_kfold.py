@@ -1,5 +1,5 @@
 # ============================================================
-# FULL PIPELINE (End-to-End) using df_rec (your proven correct table)
+# FULL PIPELINE (End-to-End) using df_rec 
 # Subject-wise K-Fold (EEG / EMG / EEG+EMG) with/without Attention
 # ============================================================
 
