@@ -18,7 +18,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 
 # -------------------------
-# SOURCE PATHS (as you requested)
+# SOURCE PATHS 
 # -------------------------
 DATASET_ROOT = "/content/drive/MyDrive/dataset_resilience"
 LABELS_CSV   = "/content/drive/MyDrive/dataset_resilience/ihri/labels_fixed_scaled.csv"
